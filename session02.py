@@ -10,7 +10,7 @@ print('The total number of overall medals in Rio 2016 is',46+38+38) #The total n
 print('46+37+38=',46+37+38) # 46+37+38= 121
 
 #######2.Input
-# Input is a built-in function called input that stops the program and waits for the user to type in 
+# All input from users is read in as a STRING!!!!!!!!!!!!!!!!!!!!
 # sth, when the user presses Return or Enter, the program resumes and input returns what the user typed as a string)
 name = 'huateng'
 print(name) #--> huateng
@@ -52,7 +52,7 @@ input('What is your first_name:')
 ### 3.2 Naming Convention for Variables 
 # 1. anything meaningful 
 # 2. any length 3. can contain letter, numbres and _
-#3. not begin with numbers 4. only lower case
+#3. not begin with numbers 4. allow upper case, prefer lower case
 
 print('Naah, na na nanana naah, nanana naah, hey Jude.'*10)
 # *10 is to repeat 10 times
