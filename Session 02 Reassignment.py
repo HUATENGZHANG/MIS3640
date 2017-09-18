@@ -9,7 +9,7 @@ print(a, b)  3 5
 x = 15
 y = x
 x = 22
- result: x=22 y=15
+ result: x=22 y=15   
 
 # Updating Variables
 x = 12
